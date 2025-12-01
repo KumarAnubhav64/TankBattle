@@ -1,5 +1,10 @@
 # Tank Battle (C++ / Graphics.h)
 
+### Team Members
+- Kumar Anubhav  - 2023UG1026
+- Deependra Singh Rathore   -  2023UG1029
+- Sudha Chandran   - 2023UG1020
+
 A real-time multiplayer Tank Battle game built using C++ and the `graphics.h` library. Supports both Local Multiplayer (Shared Keyboard) and LAN Multiplayer (TCP Sockets).
 
 ## Features
