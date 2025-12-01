@@ -71,4 +71,4 @@ Play across two computers on the same WiFi/Network.
 
 
 ## Gameplay Video
-![Gameplay Demo](Screencast%20From%202025-12-02%2003-27-21.mp4)
+![Gameplay Demo](gameplay.gif)
